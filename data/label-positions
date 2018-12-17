@@ -1,0 +1,27 @@
+Goalkeeper:
+GK: Goalkeeper
+
+Defense:
+CB: Center-back
+LCB: Left center-back
+RCB: Right center-back
+LB: Left-back (Full-back)
+RB: Right-back (Full-back)
+
+
+Midfield:
+CM : Centre midfield
+LDM: Left center midfield
+LAM: Left attacking midfield
+RDM: Right center midfield
+RAM: Right attacking midfield
+CDM: Centre defensive midfield
+CAM: Centre attacking midfield
+LM : Left midfield
+RM : Right midfield
+
+Attack:
+ST: Striker
+CF: Center forward
+LW: Left winger
+RW: Right winger
